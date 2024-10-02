@@ -67,6 +67,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [PostHog](https://posthog.com/) - Open-source product analytics platform. [![PostHog](https://img.shields.io/github/stars/posthog/posthog?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/posthog/posthog)
 * [Segment](https://segment.com/) - Collect user data and send it to your other tools.
 * [Tinybird](https://www.tinybird.co/) - Real-time data streams to APIs.
+* [devActivity](https://devactivity.com) - Contributions Analytics with AI Insights, Performance Reviews, Retrospectives and Gamification
 
 ## Authentication & Identity
 *Products that handle authentication and user identity for you.*
